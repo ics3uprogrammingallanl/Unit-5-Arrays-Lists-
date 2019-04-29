@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\bin\Debug\2DArraysAllanL.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\bin\Debug\2DArraysAllanL.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\bin\Debug\2DArraysAllanL.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\obj\Debug\2DArraysAllanL.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\obj\Debug\_2DArraysAllanL.frm2DArrays.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\obj\Debug\_2DArraysAllanL.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\obj\Debug\2DArraysAllanL.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\obj\Debug\2DArraysAllanL.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 5 (Arrays & Lists)\2DArraysAllanL\2DArraysAllanL\obj\Debug\2DArraysAllanL.pdb
